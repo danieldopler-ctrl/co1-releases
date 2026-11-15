@@ -3,6 +3,15 @@
   <channel>
     <title>CO1</title>
     <item>
+      <title>CO1 0.1.2</title>
+      <pubDate>Sun, 15 Nov 2026 21:11:03 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description>Update test release. No changes you will notice.</description>
+      <enclosure url="https://github.com/danieldopler-ctrl/co1-releases/releases/download/v0.1.2/CO1-0.1.2.dmg" type="application/octet-stream" sparkle:edSignature="RHxOw+9UQZfUUuKSMdgSB80pSD2TkkYi7zPUGe2IkmML+zqQOJbiE3QhKCcCY2uDsT8hMTVDkHDEY0xqb+BMCQ==" length="34280209" />
+    </item>
+    <item>
       <title>CO1 0.1.1</title>
       <pubDate>Sun, 15 Nov 2026 17:49:51 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
