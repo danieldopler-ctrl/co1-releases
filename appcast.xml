@@ -3,6 +3,15 @@
   <channel>
     <title>CO1</title>
     <item>
+      <title>CO1 0.2.1</title>
+      <pubDate>Sun, 22 Nov 2026 03:04:09 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description>New in 0.2.1: add and read files from Documents, Source files; review application packages in Documents and export them with templates as Word or final PDFs; edit a resume in Word and keep each version; AI Scan for assessments; your name and contact details in one place, with a switch to hide them from AI; Send feedback, Export everything and Delete all my data in Settings; Settings now sits at the bottom of the sidebar. Your data updates on first launch and a backup copy is kept first. CO1 can now save files where you choose and remember the working copies folder you pick.</description>
+      <enclosure url="https://github.com/danieldopler-ctrl/co1-releases/releases/download/v0.2.1/CO1-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="jW7zJ2roRaMdLasG4+g2D9ao6UsgejrPLObAYD8CZP0yutu8VKu95trA8llvP6+XjtMcIz15QmgYiv86i3bbDg==" length="45997291" />
+    </item>
+    <item>
       <title>CO1 0.2.0</title>
       <pubDate>Tue, 17 Nov 2026 18:43:32 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
